@@ -4,6 +4,7 @@ public class Yumenguan {
 
 	public static void main(String[] args) {
 		
-		System.out.println("¹ØÏÂºÎÈË£¬±¨ÉÏÃûÀ´£¡£¡");
+		System.out.println("å…³ä¸‹ä½•äººï¼ŒæŠ¥ä¸Šåæ¥ï¼ï¼");
+		System.out.println("å¾ä¹ƒä¸Šå°†ç‹å¼ºï¼Œå¯æ–©å•å¸ƒ");
 	}
 }
